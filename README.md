@@ -6,7 +6,7 @@ Currently in pursuit of employment. QA Automation Engineer
 
 [![linkedin](https://img.shields.io/badge/-@alexey.diukarev-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://linkedin.com/in/alexey-diukarev)  
 
-## My Experience
+## 💻 My Experience
 
 *  QA Automation Engineer** in banking sphere company doing automation infrastructure stuff in few internal projects. Working with Java, JavaScript, Selenide, Cypress, Rest Assured, Zerocode TDD
 
