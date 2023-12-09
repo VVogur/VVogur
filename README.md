@@ -4,7 +4,7 @@ Currently in pursuit of employment. QA Automation Engineer
 
 [**View my resume**](https://vvogur.github.io/CV/Oleksii_Diukarev_CV.pdf)
 
-[![Gmail]https://img.shields.io/badge/-@alexey.diukarev-161616?style=flat-square&labelColor=161616&logo=Gmail&logoColor=white&color=161616)](mailto:alexey.diukarev@gmail.com)
+[![Gmail](https://img.shields.io/badge/-@alexey.diukarev-161616?style=flat-square&labelColor=161616&logo=Gmail&logoColor=white&color=161616)](mailto:alexey.diukarev@gmail.com)
 [![linkedin](https://img.shields.io/badge/-@alexey.diukarev-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://linkedin.com/in/alexey-diukarev)  
 
 ## 💻 My Experience
