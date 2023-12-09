@@ -8,11 +8,23 @@ Currently in pursuit of employment. QA Automation Engineer
 
 ## My Experience
 
-**QA Automation Engineer** in banking sphere company doing automation infrastructure stuff in few internal projects. Working with Java, JavaScript, Selenide, Cypress, Rest Assured, Zerocode TDD
+*  QA Automation Engineer** in banking sphere company doing automation infrastructure stuff in few internal projects. Working with Java, JavaScript, Selenide, Cypress, Rest Assured, Zerocode TDD
 
-**QA Automation Engineer** at [_SailPoint_](https://www.sailpoint.com/) working with Java, Selenium.
+*  QA Automation Engineer** at [_SailPoint_](https://www.sailpoint.com/) working with Java, Selenium.
 
-All information about my experience can be found in my CV.
+*  All information about my experience can be found in my CV.
+
+## 🛠 Technical Stack
+*  Languages: Java, JavaScript, HTML/CSS
+*  Testing Tools: Selenium WebDriver, Selenide, Cypress, Zerocode TDD, TestNG, JUnit
+*  Design Pattern of Framework: Page Object Model (POM)
+*  API Testing Tools: Rest Assured, Postman, Insomnia
+*  CI/CD: Jenkins, Pipeline, Allure, Jira Adaptavist
+*  Development Tools: IntelliJ IDEA
+*  Project Management/Bug Tracking Tool: JIRA
+*  Build Management Tool: Maven
+*  Methodologies: Agile/Scrum
+*  Version Control Tool: Git/Github, BitBucket
 
 ## Misc
 
